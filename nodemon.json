@@ -1,0 +1,6 @@
+{
+  "ext": "ts,js,json",
+  "execMap": {
+    "ts": "node --inspect=0.0.0.0 -r ts-node/register"
+  }
+}
